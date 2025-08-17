@@ -1,0 +1,44 @@
+2025-08-17 15:52:18,646 | INFO | Logging to ./runs/train_abaltion_about_embed_dim=256.log
+2025-08-17 15:53:12,260 | INFO | Logging to ./runs/train_abaltion_about_embed_dim=256.log
+2025-08-17 15:56:15,875 | INFO | Logging to ./runs/train_abaltion_about_embed_dim=256.log
+2025-08-17 15:56:35,996 | INFO | [Epoch 1] train 16.9165 | val 7.0667 | BLEU1 65.9177 | BLEU2 51.4827| BLEU3 41.3653 | BLEU4 34.3503
+2025-08-17 15:56:45,083 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=7.0667)
+2025-08-17 15:56:54,208 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_1.ckpt
+2025-08-17 16:00:31,816 | INFO | [Epoch 2] train 6.9433 | val 5.3580 | BLEU1 83.6651 | BLEU2 68.0791| BLEU3 55.2772 | BLEU4 45.7810
+2025-08-17 16:00:40,366 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=5.3580)
+2025-08-17 16:00:41,105 | INFO | [Epoch 1] train 12.6842 | val 6.7499 | BLEU1 67.3606 | BLEU2 52.2090| BLEU3 41.1640 | BLEU4 33.6367
+2025-08-17 16:00:53,406 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=6.7499)
+2025-08-17 16:01:00,537 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_2.ckpt
+2025-08-17 16:01:01,942 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_1.ckpt
+2025-08-17 16:04:31,053 | INFO | [Epoch 2] train 6.0645 | val 5.0713 | BLEU1 89.9264 | BLEU2 78.0754| BLEU3 66.2393 | BLEU4 56.8553
+2025-08-17 16:04:31,337 | INFO | [Epoch 3] train 5.4312 | val 4.7331 | BLEU1 91.3784 | BLEU2 78.7656| BLEU3 66.4409 | BLEU4 56.7636
+2025-08-17 16:04:36,792 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=5.0713)
+2025-08-17 16:04:48,994 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_2.ckpt
+2025-08-17 16:04:51,251 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=4.7331)
+2025-08-17 16:04:59,629 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_3.ckpt
+2025-08-17 16:08:29,403 | INFO | [Epoch 3] train 4.9073 | val 4.5476 | BLEU1 87.7095 | BLEU2 75.2070| BLEU3 63.4951 | BLEU4 54.3606
+2025-08-17 16:08:34,153 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=4.5476)
+2025-08-17 16:08:38,829 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_3.ckpt
+2025-08-17 16:08:53,227 | INFO | [Epoch 4] train 4.7931 | val 4.5290 | BLEU1 78.9658 | BLEU2 66.5579| BLEU3 55.3762 | BLEU4 46.8081
+2025-08-17 16:09:02,101 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=4.5290)
+2025-08-17 16:09:10,298 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_4.ckpt
+2025-08-17 16:12:13,943 | INFO | [Epoch 4] train 4.4490 | val 4.3511 | BLEU1 90.5893 | BLEU2 79.5184| BLEU3 68.2023 | BLEU4 59.2507
+2025-08-17 16:12:18,780 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=4.3511)
+2025-08-17 16:12:22,742 | INFO | [Epoch 5] train 4.4013 | val 4.3684 | BLEU1 89.4006 | BLEU2 78.7540| BLEU3 67.5891 | BLEU4 58.5997
+2025-08-17 16:12:23,346 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_4.ckpt
+2025-08-17 16:12:30,895 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=4.3684)
+2025-08-17 16:12:39,040 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_5.ckpt
+2025-08-17 16:15:52,634 | INFO | [Epoch 5] train 4.1967 | val 4.2654 | BLEU1 90.1130 | BLEU2 79.4000| BLEU3 68.5125 | BLEU4 59.6346
+2025-08-17 16:15:57,297 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=4.2654)
+2025-08-17 16:15:59,145 | INFO | [Epoch 6] train 4.1358 | val 4.3035 | BLEU1 91.0442 | BLEU2 79.2239| BLEU3 67.1714 | BLEU4 57.7102
+2025-08-17 16:16:07,297 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_5.ckpt
+2025-08-17 16:16:11,794 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=4.3035)
+2025-08-17 16:16:20,014 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_6.ckpt
+2025-08-17 16:19:42,779 | INFO | [Epoch 6] train 4.0319 | val 4.2127 | BLEU1 89.2541 | BLEU2 77.7061| BLEU3 66.2797 | BLEU4 57.2850
+2025-08-17 16:19:47,581 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=4.2127)
+2025-08-17 16:19:52,359 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_6.ckpt
+2025-08-17 16:19:55,829 | INFO | [Epoch 7] train 3.9417 | val 4.1960 | BLEU1 88.2403 | BLEU2 77.1556| BLEU3 65.7942 | BLEU4 56.8947
+2025-08-17 16:20:04,773 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=4.1960)
+2025-08-17 16:20:12,858 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_7.ckpt
+
+以上为Embed_dim = 256

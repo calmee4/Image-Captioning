@@ -1,0 +1,10 @@
+2025-08-17 22:04:32,897 | INFO | [Epoch 1] train 4.8702 | val 4.3005 | BLEU1 93.1909 | BLEU2 81.6680| BLEU3 70.3253 | BLEU4 61.2817
+2025-08-17 22:04:59,800 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=4.3005)
+2025-08-17 22:05:27,423 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_1.ckpt
+2025-08-17 22:11:33,699 | INFO | [Epoch 2] train 4.0552 | val 4.1086 | BLEU1 91.9221 | BLEU2 81.4939| BLEU3 70.5481 | BLEU4 61.7383
+2025-08-17 22:11:59,866 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=4.1086)
+2025-08-17 22:12:26,866 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_2.ckpt
+2025-08-17 22:17:18,335 | INFO | [Epoch 3] train 3.7516 | val 4.0472 | BLEU1 90.9486 | BLEU2 80.7558| BLEU3 70.2320 | BLEU4 61.7150
+2025-08-17 22:17:45,263 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=4.0472)
+2025-08-17 22:18:13,448 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_3.ckpt
+2025-08-17 22:18:52,672 | INFO | Logging to ./runs/train_GPT-2

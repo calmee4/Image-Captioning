@@ -1,0 +1,6 @@
+2025-08-17 22:22:42,582 | INFO | [Epoch 1] train 20.5215 | val 7.6268 | BLEU1 79.9707 | BLEU2 69.8766| BLEU3 57.5417 | BLEU4 47.7538
+2025-08-17 22:22:59,644 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=7.6268)
+2025-08-17 22:23:17,191 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_1.ckpt
+2025-08-17 22:30:44,784 | INFO | [Epoch 2] train 8.4753 | val 5.8508 | BLEU1 79.6284 | BLEU2 64.9305| BLEU3 51.0001 | BLEU4 40.6340
+2025-08-17 22:31:01,067 | INFO | Saved BEST checkpoint to /mnt/f/Multimodality/best.ckpt (val_loss=5.8508)
+2025-08-17 22:31:17,069 | INFO | Saved checkpoint: /mnt/f/Multimodality/epoch_2.ckpt
